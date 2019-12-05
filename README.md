@@ -1,3 +1,5 @@
+欢迎访问[OmegaXYZ.com](http://www.omegaxyz.com)
+
 # **机器学习基本理论**
 
 ## **基本术语与方法**
