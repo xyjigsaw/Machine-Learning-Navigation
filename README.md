@@ -68,6 +68,10 @@
 
 **[批量学习与在线学习概述](http://www.omegaxyz.com/2018/05/02/batch_and_online_learning/)**
 
+**[mat格式数据集转换为arff与txt格式](https://www.omegaxyz.com/2019/08/07/mat2arffortxt/)**
+
+**[机器学习数据集制作与划分MATLAB实现](https://www.omegaxyz.com/2019/06/26/divide-dataset/)**
+
 ## **特征选择概述**
 
 **[特征选择的基本方法概述](http://www.omegaxyz.com/2017/09/25/feature_section_measures_intro/)**
@@ -124,6 +128,21 @@
 **[kmeans聚类选择最优K值python实现](http://www.omegaxyz.com/2018/09/03/k-means-find-k/)**
 
 **[DBSCAN聚类算法Python实现](http://www.omegaxyz.com/2019/03/21/dbscan-python/)**
+
+---
+# **知识图谱与社交网络**
+
+知识图谱（Knowledge Graph），在图书情报界称为知识域可视化或知识领域映射地图，是显示知识发展进程与结构关系的一系列各种不同的图形，用可视化技术描述知识资源及其载体，挖掘、分析、构建、绘制和显示知识及它们之间的相互联系。知识图谱是通过将应用数学、图形学、信息可视化技术、信息科学等学科的理论与方法与计量学引文分析、共现分析等方法结合，并利用可视化的图谱形象地展示学科的核心结构、发展历史、前沿领域以及整体知识架构达到多学科融合目的的现代理论。它能为学科研究提供切实的、有价值的参考。
+
+**[Neo4j数据导入与可视化](https://www.omegaxyz.com/2020/01/17/neo4j_introduction/)**
+
+**[知识图谱嵌入的应用场景](https://www.omegaxyz.com/2020/01/15/kge-application/)**
+
+**[融合事实信息的知识图谱嵌入——语义匹配模型](https://www.omegaxyz.com/2020/01/13/kge-semantic-matching-models/)**
+
+**[融合事实信息的知识图谱嵌入——平移距离模型](https://www.omegaxyz.com/2020/01/12/kge-translational-distance-models/)**
+
+**[Python社交网络——NetworkX入门](https://www.omegaxyz.com/2020/01/07/python-networkx/)**
 
 ---
 
@@ -268,7 +287,7 @@ python机器学习只适合做小规模的算法和简单神经网络，适合�
 ---
 
 
-# **自然语言处理（****NLP****）**
+# **自然语言处理（NLP）**
 
 **[NLP之word2vec简介](http://www.omegaxyz.com/2018/11/13/word2vec/)**
 
