@@ -1,4 +1,4 @@
-欢迎访问[OmegaXYZ.com](http://www.omegaxyz.com)
+欢迎访问[OmegaXYZ.com](https://www.omegaxyz.com)
 
 Last Update: 2020-01-20
 
