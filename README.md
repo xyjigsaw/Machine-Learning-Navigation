@@ -2,7 +2,7 @@
 
 Last Update: 2020-01-20
 
-NLP, Knowledge coming soon... 
+NLP, Knowledge Graph coming soon... 
 
 # **机器学习基本理论**
 
