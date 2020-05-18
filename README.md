@@ -4,6 +4,8 @@ Last Update: 2020-01-20
 
 NLP, Knowledge Graph coming soon... 
 
+原始网页：https://www.omegaxyz.com/archive/machine-learning-navigator/
+
 # **机器学习基本理论**
 
 ## **基本术语与方法**
