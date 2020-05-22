@@ -1,8 +1,8 @@
 欢迎访问[OmegaXYZ.com](https://www.omegaxyz.com)
 
-Last Update: 2020-01-20
+Last Update: 2020-05-25
 
-NLP, Knowledge Graph coming soon... 
+NLP, Knowledge Graph Added.
 
 原始网页：https://www.omegaxyz.com/archive/machine-learning-navigator/
 
@@ -150,6 +150,26 @@ NLP, Knowledge Graph coming soon...
 
 **[Python社交网络——NetworkX入门](https://www.omegaxyz.com/2020/01/07/python-networkx/)**
 
+**[可视化图布局算法简介](https://www.omegaxyz.com/2020/02/01/graph-layout/)**
+
+**[用户身份链接方法——DeepLink](https://www.omegaxyz.com/2020/01/27/deeplink/)**
+
+**[图注意力网络(GAT) TensorFlow实现](https://www.omegaxyz.com/2020/03/29/gat-tensorflow/)**
+
+**[知识图谱可视化Demo](https://www.omegaxyz.com/2020/03/03/knowledge-graph-demo/)**
+
+**[知识融合（实体对齐）笔记](https://www.omegaxyz.com/2020/04/06/knowledge-fusion/)**
+
+**[知识图谱属性与关系区别](https://www.omegaxyz.com/2020/04/03/attribute-relation-embedding/)**
+
+**[知识图谱综述论文阅读](https://www.omegaxyz.com/2020/05/19/kg-survey/)**
+
+**[BERT-BiLSTM-CRF命名实体识别应用](https://www.omegaxyz.com/2020/05/18/bert-bilstm-crf/)**
+
+**[黑暗森林：知识图谱的前世今生](https://www.omegaxyz.com/2020/04/29/dark-forest-kg/)**
+
+**[基于知识图谱的问答系统Demo](https://www.omegaxyz.com/2020/04/28/kbqa-demo/)**
+
 ---
 
 
@@ -186,6 +206,10 @@ python机器学习只适合做小规模的算法和简单神经网络，适合�
 **[DBSCAN聚类算法Python实现](http://www.omegaxyz.com/2019/03/21/dbscan-python/)**
 
 **[AdaBoost简介及Python应用](http://www.omegaxyz.com/2019/04/11/adaboost-python/)**
+
+**[LLE（Locally Linear Embedding）算法](https://www.omegaxyz.com/2020/01/21/lle/)**
+
+**[基于LDA的文本主题聚类Python实现](https://www.omegaxyz.com/2020/02/24/lda-topic/)**
 
 
 ---
@@ -236,6 +260,8 @@ python机器学习只适合做小规模的算法和简单神经网络，适合�
 **[王者荣耀AI论文：层次宏观策略模型](http://www.omegaxyz.com/2018/12/25/moba-ai/)**
 
 **[PyTorch入门](http://www.omegaxyz.com/2019/01/12/pytorch-introduction/)**
+
+**[图注意力网络(GAT) TensorFlow实现](https://www.omegaxyz.com/2020/03/29/gat-tensorflow/)**
 
 
 ---
@@ -302,6 +328,10 @@ python机器学习只适合做小规模的算法和简单神经网络，适合�
 **[基于有监督的词移距离（SWMD）简介](http://www.omegaxyz.com/2018/11/27/swmd/)**
 
 **[基于WMD（词移距离）的句子相似度分析MATLAB代码](http://www.omegaxyz.com/2018/12/09/wmd-matlab/)**
+
+**[基于LDA的文本主题聚类Python实现](https://www.omegaxyz.com/2020/02/24/lda-topic/)**
+
+**[BERT-BiLSTM-CRF命名实体识别应用](https://www.omegaxyz.com/2020/05/18/bert-bilstm-crf/)**
 
 
 ---
@@ -514,8 +544,6 @@ python机器学习只适合做小规模的算法和简单神经网络，适合�
 
 **[自我评价算法（SEE）框架](http://www.omegaxyz.com/2018/03/16/see_simple/)**
 
-
-
 **[基于训练集的代理模型生成算法（DROP3、AGG）](http://www.omegaxyz.com/2018/05/08/drop3_agg/)**
 
 **[基于迭代局部搜索和随机惯性权重的BA算法MATLAB实现（ILSSIWBA）](http://www.omegaxyz.com/2019/02/28/ilssiwba/)**
@@ -539,3 +567,15 @@ python机器学习只适合做小规模的算法和简单神经网络，适合�
 
 
 ---
+
+
+# **其他**
+
+**[数据分析岗位面试必备](https://www.omegaxyz.com/2020/02/17/data-analysis-interview/)**
+
+**[推荐系统摘要](https://www.omegaxyz.com/2020/02/16/recommendation-system-abstract/)**
+
+**[FR算法（Fruchterman-Reingold）Python实现](https://www.omegaxyz.com/2020/04/12/fruchterman-reingold-python/)**
+
+---
+
