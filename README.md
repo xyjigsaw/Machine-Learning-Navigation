@@ -1,5 +1,3 @@
-[toc]
-
 欢迎访问[OmegaXYZ.com](https://www.omegaxyz.com)
 
 Last Update: 2020-05-25
