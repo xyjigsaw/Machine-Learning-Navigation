@@ -2,7 +2,7 @@
 
 Last Update: 2020-05-25
 
-NLP, Knowledge Graph Added.
+NLP, Knowledge Graph Added
 
 原始网页：https://www.omegaxyz.com/archive/machine-learning-navigator/
 
