@@ -1,6 +1,6 @@
 欢迎访问[OmegaXYZ.com](https://www.omegaxyz.com)
 
-Last Update: 2020-05-25
+Last Update: 2020-08-15
 
 NLP, Knowledge Graph Added
 
@@ -77,6 +77,9 @@ NLP, Knowledge Graph Added
 **[mat格式数据集转换为arff与txt格式](https://www.omegaxyz.com/2019/08/07/mat2arffortxt/)**
 
 **[机器学习数据集制作与划分MATLAB实现](https://www.omegaxyz.com/2019/06/26/divide-dataset/)**
+
+**[基于留一法的快速KNN代码](https://www.omegaxyz.com/2020/06/17/rapid-knn/)**
+
 
 ## **特征选择概述**
 
@@ -169,6 +172,14 @@ NLP, Knowledge Graph Added
 **[黑暗森林：知识图谱的前世今生](https://www.omegaxyz.com/2020/04/29/dark-forest-kg/)**
 
 **[基于知识图谱的问答系统Demo](https://www.omegaxyz.com/2020/04/28/kbqa-demo/)**
+
+**[Aminer学术社交网络数据知识图谱构建（三元组与嵌入）](https://www.omegaxyz.com/2020/07/12/aminer-academic-social-network/)**
+
+**[学科领域本体关系数据与可视化](https://www.omegaxyz.com/2020/07/13/domain_data_visualization/)**
+
+**[Dedupe去重与实体对齐](https://www.omegaxyz.com/2020/07/24/dedupe/)**
+
+**[Linux知识图谱](https://www.omegaxyz.com/2020/08/04/linux-knowledge-graph/)**
 
 ---
 
@@ -263,6 +274,8 @@ python机器学习只适合做小规模的算法和简单神经网络，适合�
 
 **[图注意力网络(GAT) TensorFlow实现](https://www.omegaxyz.com/2020/03/29/gat-tensorflow/)**
 
+**[个人主页信息提取器](https://www.omegaxyz.com/2020/06/18/fast-profile-extractor/)**
+
 
 ---
 
@@ -332,6 +345,8 @@ python机器学习只适合做小规模的算法和简单神经网络，适合�
 **[基于LDA的文本主题聚类Python实现](https://www.omegaxyz.com/2020/02/24/lda-topic/)**
 
 **[BERT-BiLSTM-CRF命名实体识别应用](https://www.omegaxyz.com/2020/05/18/bert-bilstm-crf/)**
+
+**[个人主页信息提取器](https://www.omegaxyz.com/2020/06/18/fast-profile-extractor/)**
 
 
 ---
